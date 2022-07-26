@@ -45,11 +45,15 @@ body
 {
     font-size: 20px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> header
 #post
 {
     background: white;
     padding: 1em;
+<<<<<<< HEAD
 }
 
 #footer
@@ -59,4 +63,6 @@ body
     text-align: center;
     margin: 0;
     padding: 0,5em;
+=======
+>>>>>>> header
 }
