@@ -11,7 +11,7 @@ body
 
 #cabecera
 {
-    background: #37488b;
+    background: #e48d0b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
@@ -45,15 +45,10 @@ body
 {
     font-size: 20px;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> header
 #post
 {
     background: white;
     padding: 1em;
-<<<<<<< HEAD
 }
 
 #footer
@@ -63,6 +58,4 @@ body
     text-align: center;
     margin: 0;
     padding: 0,5em;
-=======
->>>>>>> header
 }
